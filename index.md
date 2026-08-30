@@ -1,5 +1,5 @@
 Privacy Policy for Personal Prayer Assistant
-Last updated: December 2025
+Last updated: August 2026
 
 Personal Prayer Assistant is developed by an individual developer (“I”, “me”, or “the developer”). This privacy policy explains how the app handles user data.
 
@@ -25,16 +25,16 @@ The developer has no access to this data.
 5. Data Usage
 User‑entered data is used solely for app functionality, such as:
 
-Displaying prayer requests, Saving and loading user notes, Allowing users to manage their own entries.
+- Displaying prayer requests, Saving and loading user notes, Allowing users to manage their own entries.
 
-The app does not use data for analytics, tracking, advertising, or profiling.
+- The app does not use data for analytics, tracking, advertising, or profiling.
 
 6. Data Deletion
 Users can delete their own data at any time by:
 
-Removing individual prayer requests within the app
+- Removing individual prayer requests within the app
 
-Uninstalling the app, which deletes all locally stored data
+- Uninstalling the app, which deletes all locally stored data
 
 No data remains after uninstallation.
 
